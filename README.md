@@ -38,3 +38,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 # avocalixex1react
+Au démarrage la page génére la passphrase:
+  au premier lieu la génération du code (exemple 11111 ou 12345..)
+  ce code permet d'extraire à partir du fichier JSON qui contient la liste de tout les mots le mot correspondant à ce code
+  la dernière étape avant l'affichage c'est de refaire le travaille 5 fois pour obtenir la passphrase
+  
