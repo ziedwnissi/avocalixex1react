@@ -40,6 +40,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 # avocalixex1react
 Au démarrage la page génére la passphrase:
   au premier lieu la génération du code (exemple 11111 ou 12345..)
+  
   ce code permet d'extraire à partir du fichier JSON qui contient la liste de tout les mots le mot correspondant à ce code
+  
   la dernière étape avant l'affichage c'est de refaire le travaille 5 fois pour obtenir la passphrase
   
